@@ -12,7 +12,7 @@
 export DS_apiKey='apikey'
 
 # C1WS base URL
-export DS_baseUrl='https://workload.trend-us-1.cloudone.trendmicro.com'
+export DS_baseUrl='https://workload.XXXX.cloudone.trendmicro.com'
 
 # Qualys credentials
 export Q_user='user'
