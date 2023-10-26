@@ -10,7 +10,7 @@
 $DS_apiKey = 'apikey'
 
 # C1WS base URL
-$DS_baseUrl = 'https://workload.trend-us-1.cloudone.trendmicro.com'
+$DS_baseUrl = 'https://workload.XXXX.cloudone.trendmicro.com'
 
 # Qualys credentials
 $Q_user = 'user'
