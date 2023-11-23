@@ -11,14 +11,14 @@
 # Trend Micro C1WS API key
 export DS_apiKey='apikey'
 
-# C1WS base URL - See regions at: https://cloudone.trendmicro.com/docs/identity-and-account-management/c1-regions/
+# C1WS base URL - See available regions at: https://cloudone.trendmicro.com/docs/identity-and-account-management/c1-regions/
 export DS_baseUrl='https://workload.YOUR-REGION.cloudone.trendmicro.com'
 
 # Qualys credentials
 export Q_user='username'
 export Q_pass='password'
 
-# Qualys API URLs - See endpoints at https://www.qualys.com/platform-identification/
+# Qualys API URLs - See available API endpoints at https://www.qualys.com/platform-identification/
 export Q_qualysapiUrl='https://qualysapi.qg2.apps.qualys.eu'
 export Q_gatewayUrl='https://gateway.qg2.apps.qualys.eu'
 
