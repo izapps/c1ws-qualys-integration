@@ -9,14 +9,14 @@
 # Trend Micro C1WS API key
 $DS_apiKey = 'apikey'
 
-# C1WS base URL - See regions at: https://cloudone.trendmicro.com/docs/identity-and-account-management/c1-regions/
+# C1WS base URL - # Qualys API URLs - See available regions at: https://cloudone.trendmicro.com/docs/identity-and-account-management/c1-regions/
 $DS_baseUrl = 'https://workload.YOUR-REGION.cloudone.trendmicro.com'
 
 # Qualys credentials
 $Q_user = 'username'
 $Q_pass = 'password'
 
-# Qualys API URLs - See endpoints at https://www.qualys.com/platform-identification/
+# Qualys API URLs - See available API endpoints at https://www.qualys.com/platform-identification/
 $Q_qualysapiUrl = 'https://qualysapi.qg2.apps.qualys.eu'
 $Q_gatewayUrl = 'https://gateway.qg2.apps.qualys.eu'
 
